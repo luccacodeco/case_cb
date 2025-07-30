@@ -1,4 +1,4 @@
-# Desafio 1 - Engenharia de Dados (Profissional)
+# Desafio 1 - Engenharia de Dados
 
 Este projeto contém a solução para o **Desafio 1** do desafio de engenharia de dados.
 
