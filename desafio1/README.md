@@ -15,6 +15,11 @@ Este projeto contém a solução para o **Desafio 1** do desafio de engenharia d
   - `etl_exemplo_banco.py`: Script de ETL que lê o ERP.json e insere no banco.
   - `etl_exemplo_csv.py`: Script de ETL que lê o ERP.json e insere em arquivos CSVs.
   - `utils.py`: Funções auxiliares (validação, conexão).
+- **output_csv/**:
+  - `guest_checks.csv` : Lista os itens detalhados de cada comanda, incluindo valores, quantidade, e referência ao item de menu.
+  - `detail_lines.csv` : Contém os dados gerais de cada comanda ou pedido (como data, total, impostos, mesa, atendente etc.).
+  - `menu_items.csv` : Traz informações específicas dos produtos vendidos (como ID, preço com imposto, categoria e relação com a comanda).
+  - `taxes.csv` : Detalha os impostos aplicados por comanda, com alíquotas, tipo e valor total recolhido.
 - **requirements.txt**: Dependências para rodar o ETL.
 
 ## Como usar
