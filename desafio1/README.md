@@ -23,9 +23,9 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 ### Validar o JSON
-    ```bash
+  ```bash
     python desafio1/etl/etl_exemplo_banco.py --validate
-    ``` 
+  ``` 
 ou
     ```bash
     python desafio1/etl/etl_exemplo_csv.py --validate
