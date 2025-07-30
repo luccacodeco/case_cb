@@ -51,7 +51,7 @@ O objetivo é transformar os dados brutos de pedidos do ERP (no formato JSON) em
   Funções auxiliares (validação e conexão) ficam isoladas para tornar o código mais limpo e reutilizável.
 
 - **Logging e CLI**:  
-  O script `etl_exemplo.py` utiliza `argparse` para permitir rodar etapas separadas (`--validate`, `--csv`, `--load`), simulando pipelines reais.
+  Os scripts `etl_exemplo_banco.py` e `etl_exemplo_csv.py` utilizam `argparse` para permitir rodar etapas separadas (`--validate`, `--csv`, `--load`), simulando pipelines reais.
 
 ---
 
