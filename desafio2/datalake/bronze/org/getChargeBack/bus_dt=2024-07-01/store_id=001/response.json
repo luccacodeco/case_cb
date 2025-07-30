@@ -1,0 +1,11 @@
+{
+    "busDt": "2024-07-01",
+    "storeId": "001",
+    "chargeBacks": [
+        {
+            "cbId": 10,
+            "reason": "cancelled order",
+            "amount": 50.0
+        }
+    ]
+}

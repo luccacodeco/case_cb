@@ -1,0 +1,12 @@
+{
+    "busDt": "2024-07-01",
+    "storeId": "001",
+    "fiscalInvoices": [
+        {
+            "invoiceId": 555,
+            "amount": 250.0,
+            "status": "emitted"
+        }
+    ]
+}
+

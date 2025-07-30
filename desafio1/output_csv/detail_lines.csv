@@ -1,0 +1,2 @@
+guestCheckLineItemId,rvcNum,dtlOtNum,dtlOcNum,lineNum,dtlId,detailUTC,detailLcl,lastUpdateUTC,lastUpdateLcl,busDt,wsNum,dspTtl,dspQty,aggTtl,aggQty,chkEmpId,chkEmpNum,svcRndNum,seatNum,menuItem.miNum,menuItem.modFlag,menuItem.inclTax,menuItem.activeTaxes,menuItem.prcLvl,guestCheckId
+9988776655,123,1,,1,1,2024-01-01T09:09:09,2024-01-01T06:09:09,2024-11-01T10:10:10,2024-01-01T07:10:10,2024-01-01,7,119.9,1,119.9,1,10454318,81001,1,1,6042,False,20.809091,28,3,1122334455

@@ -1,0 +1,16 @@
+{
+    "busDt": "2024-07-01",
+    "storeId": "001",
+    "transactions": [
+        {
+            "txnId": 1,
+            "method": "credit_card",
+            "amount": 150.0
+        },
+        {
+            "txnId": 2,
+            "method": "cash",
+            "amount": 100.0
+        }
+    ]
+}

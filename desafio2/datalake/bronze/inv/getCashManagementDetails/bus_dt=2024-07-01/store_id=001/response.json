@@ -1,0 +1,14 @@
+{
+    "busDt": "2024-07-01",
+    "storeId": "001",
+    "cashDetails": [
+        {
+            "operation": "deposit",
+            "amount": 200.0
+        },
+        {
+            "operation": "withdraw",
+            "amount": 50.0
+        }
+    ]
+}

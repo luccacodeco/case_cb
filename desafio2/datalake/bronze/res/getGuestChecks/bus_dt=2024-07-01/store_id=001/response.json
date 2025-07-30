@@ -1,0 +1,30 @@
+{
+    "busDt": "2024-07-01",
+    "storeId": "001",
+    "guestChecks": [
+        {
+            "guestCheckId": 112233,
+            "chkNum": 1234,
+            "chkTtl": 250.0,
+            "taxes": [
+                {
+                    "taxNum": 1,
+                    "taxRate": 10,
+                    "taxCollTtl": 25.0
+                }
+            ],
+            "items": [
+                {
+                    "itemId": 101,
+                    "itemName": "Pizza",
+                    "itemPrice": 120.0
+                },
+                {
+                    "itemId": 102,
+                    "itemName": "Coca-Cola",
+                    "itemPrice": 130.0
+                }
+            ]
+        }
+    ]
+}
