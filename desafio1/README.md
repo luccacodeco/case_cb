@@ -27,9 +27,9 @@ pip install -r requirements.txt
     python desafio1/etl/etl_exemplo_banco.py --validate
   ``` 
 ou
-    ```bash
+  ```bash
     python desafio1/etl/etl_exemplo_csv.py --validate
-    ``` 
+  ``` 
 ### Carregar dados em CSVs
 1. Rode:
    ```bash
